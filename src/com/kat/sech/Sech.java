@@ -8,5 +8,6 @@ public class Sech {
        System.out.println("hello");
         WebDriver obj = new ChromeDriver();
         obj.get("https://wwww.google.com");
+        System.out.println("hello");
     }
 }
